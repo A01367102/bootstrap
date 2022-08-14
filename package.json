@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "nodejs proyecto",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A01367102/testingbootstrap.git"
+  },
+  "author": "BrunoMDz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A01367102/testingbootstrap/issues"
+  },
+  "homepage": "https://github.com/A01367102/testingbootstrap#readme"
+}
