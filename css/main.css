@@ -1,0 +1,33 @@
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: rgb(207, 25, 239);
+    background-color: rgb(112, 217, 189);
+
+}
+
+footer {
+    padding: 10px 10px 0px 10px;
+    background-color: yellow;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+
+.btn {
+    margin-right: 10px;
+    color: beige;
+    background-color: rgb(112, 217, 189);
+    margin: 10px;
+}
+
+.card-carro {
+    margin: auto;
+    padding: 2px 5px 2px 5px;
+    flex: 1 150px;
+}
+
+.btn-botoncito {
+    width: 100%;
+    
+}
